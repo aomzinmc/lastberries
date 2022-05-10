@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lastberries
-- 👀 I’m interested in Minecraft Animaiton
-- 💞️ I’m looking to collaborate on Black Plasma Studios
+- 👀 I’m interested in Spigot Plugin Development
+- 💞️ I’m looking to collaborate on Minecraft Network
 - 📫 How to reach me skb.paripat@gmail.com
 
 <!---
