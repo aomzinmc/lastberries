@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lastberries
+- 👋 Hi, I’m mixberry
 - 👀 I’m interested in Spigot Plugin Development
 - 💞️ I’m looking to collaborate on Minecraft Network
 - 📫 How to reach me skb.paripat@gmail.com
